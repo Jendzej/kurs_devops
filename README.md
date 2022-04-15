@@ -1,3 +1,3 @@
 # kurs_devops
-# develop - glowna czesc projektu
+# develop - glowna czesc rozwoju projektu
 
