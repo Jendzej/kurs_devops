@@ -1,2 +1,3 @@
 # kurs_devops
-# hotfix - poprawki poszczegolnych bledow
+# develop - glowna czesc projektu
+
